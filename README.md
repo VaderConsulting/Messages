@@ -1,6 +1,6 @@
 # Messages
 
-VB6 working copy of `Messages` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Messages. Output: `Messages.exe`. `VersionCompanyName`: CSC.
+CSC VB6 Messages (`Messages.exe`) browser for domain netlogon broadcast message files. Opens `Server\netlogon\messages`, pages message text with Next Message / Close, and shows the total message count.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Project1` (`Messages.vbp`) | VB6 | WinForms exe | Messages |
+| `Project1` (`Messages.vbp`) | VB6 | WinForms exe | Domain netlogon messages browser |
 
 ## How to open
 
@@ -28,4 +28,4 @@ Company names in project files: CSC.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT (c) 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
